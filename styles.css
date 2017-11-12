@@ -1,0 +1,31 @@
+div {
+    width: 400px;
+    height: 660px;
+    padding: 20px 25px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    text-indent: 25px;
+    font-family: Tahoma sans-serif;
+    font-size: 14px;
+    line-height: 1.5; = font-size * 1.5 = 20px * 1.5 = line-height: 30px;
+}
+img{
+    width: 150px;
+}
+term{
+    color: red;
+}
+link-word{
+    color: blue;
+}
+allotment{
+    color: red;
+}
+important{
+    color: blue;
+}
